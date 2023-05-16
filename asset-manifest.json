@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oogle-books-api-app/static/css/main.44fd69dd.css",
+    "main.js": "/oogle-books-api-app/static/js/main.0423e462.js",
+    "static/media/bg1.jpeg": "/oogle-books-api-app/static/media/bg1.ad034d466d2e31584621.jpeg",
+    "static/media/bg2.jpg": "/oogle-books-api-app/static/media/bg2.deb9813952e6b2f8f9d0.jpg",
+    "index.html": "/oogle-books-api-app/index.html",
+    "main.44fd69dd.css.map": "/oogle-books-api-app/static/css/main.44fd69dd.css.map",
+    "main.0423e462.js.map": "/oogle-books-api-app/static/js/main.0423e462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fd69dd.css",
+    "static/js/main.0423e462.js"
+  ]
+}
